@@ -1,0 +1,5 @@
+bin
+pkg
+
+.src/review
+.src/reviewed
